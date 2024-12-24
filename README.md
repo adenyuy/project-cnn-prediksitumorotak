@@ -49,7 +49,7 @@ The classification task involves distinguishing between two categories:
 
 If you have any suggestions or feedback, feel free to reach out via email or LinkedIn:
 - **Email:** marvinugraha@gmail.com
-- **LinkedIn:** [Marvin NUgraha](https://www.linkedin.com/in/marvinugraha/)
+- **LinkedIn:** https://www.linkedin.com/in/marvinugraha/
 
 #machinelearning #neuralnetworks #braintumordetection
 
